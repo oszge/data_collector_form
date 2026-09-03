@@ -1,0 +1,22 @@
+[theme]
+base = "dark"
+
+primaryColor = "#3c818b"
+backgroundColor = "#050607"
+secondaryBackgroundColor = "#10252B"
+textColor = "#f5fcfd"
+
+font = "Playfair Display:https://fonts.googleapis.com/css2?family=PlayfairDisplay:wght@400;500;600&display=swap-"
+headingFont = "Poppins:https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap, sans-serif"
+
+baseFontSize = 14
+baseFontWeight = 400
+
+headingFontSizes = ["2.5rem", "2rem", "1.6rem", "1.3rem"]
+headingFontWeights = [700, 700, 600, 600]
+
+baseRadius = "0.75rem"
+buttonRadius = "0.75rem"
+
+borderColor = "#3e7d8b"
+showWidgetBorder = true
