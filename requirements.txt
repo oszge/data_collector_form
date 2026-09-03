@@ -1,0 +1,4 @@
+psycopg2==2.9.12
+streamlit==1.59.2
+pandas==3.0.3
+streamlit-date-picker==0.0.5
